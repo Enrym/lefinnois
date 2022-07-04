@@ -83,6 +83,10 @@ h3 {
     cursor: pointer;
 }
 
+.navItem {
+    margin: 15px 0;
+}
+
 #mainNavigation {
     padding: 15px;
     background-color: #353d44;
