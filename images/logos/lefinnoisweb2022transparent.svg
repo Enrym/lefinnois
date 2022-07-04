@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 551.9 143.1" style="enable-background:new 0 0 551.9 143.1;" xml:space="preserve">
+	 viewBox="0 0 551.9 152.2" style="enable-background:new 0 0 551.9 152.2;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#ACCCFF;stroke-width:2;stroke-miterlimit:10;}
 	.st1{fill:#FFFFFF;}
@@ -10,9 +10,9 @@
 	.st4{font-size:120px;}
 </style>
 <g>
-	<line class="st0" x1="0" y1="135.3" x2="151" y2="134.8"/>
-	<text transform="matrix(1 0 0 1 168.5071 143.0947)" class="st1 st2 st3">Côte d’Azur</text>
-	<line class="st0" x1="398" y1="134.3" x2="549" y2="133.8"/>
-	<text transform="matrix(1 0 0 1 -6.4663 83.0371)" class="st1 st2 st4">LeFINNOIS</text>
+	<line class="st0" x1="0" y1="141.2" x2="151" y2="140.7"/>
+	<text transform="matrix(1 0 0 1 168.5071 149.0338)" class="st1 st2 st3">Côte d’Azur</text>
+	<line class="st0" x1="398" y1="140.2" x2="549" y2="139.7"/>
+	<text transform="matrix(1 0 0 1 -6.4663 88.9762)" class="st1 st2 st4">LeFINNOIS</text>
 </g>
 </svg>
