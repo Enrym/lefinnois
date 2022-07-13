@@ -35,8 +35,11 @@ h4 {
 p, li {
     font-size: 16px;
     font-weight: 300;
- 
+}
 
+i {
+    font-weight: 200;
+    font-size: 16px;
 }
 
 .logo {
@@ -53,10 +56,11 @@ p, li {
     margin: 0 15px;
 }
 
-.navBar .btn {
+
+
+a.btn.cta-btn {
     font-weight: 300;
 }
-
 
 p > a, ul > a {
     text-decoration: none;
@@ -65,9 +69,10 @@ p > a, ul > a {
     color: #fff;
 } 
 
-p {
+p:not(footer p) {
     font-size: 16px;
     line-height: 2;
+    padding: 20px 0;
 }
 
 h3 {
@@ -618,10 +623,21 @@ footer {
 
 
 .image-flex {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    background-color: #353d44;
+    color: #fff;
+    
+}
+
+.section-2-a {
+    background-color: #fff;
+    color: #353d44;
 }
 
 .image-flex-left, .image-flex-right {
@@ -636,20 +652,26 @@ footer {
 }
 
 .cnt-flex {
-    align-items: flex-start;
+    align-items: center;
 }
 
 .cnt-flex-right {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    max-width: 400px;
+    max-width: 800px;
 }
 
-.cnt-flex-right p:first-of-type {
-    font-size: 22px;
-    font-weight: 300;
+.cnt-flex-right-2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 400px;
+    
+
 }
+
+
 
 .cnt-flex-right i {
     font-weight: 200;
@@ -690,12 +712,15 @@ footer {
     height: 600px;
 }
 
-.tel  {
-    color: #000 !important;
-    font-weight: 300 !important;
+.tel, .email  {
+    font-weight: 400 !important;
+    color: rgb(210, 206, 206);
+    text-decoration: underline;
 }
 
-
+.name {
+    padding: 40px 0px 20px 0px;
+}
 
 
 
@@ -793,7 +818,7 @@ footer {
         background: none;
         text-align: left;
         padding: 0;
-        margin: 10px 15px;
+        margin: 15px 15px;
     }
 
 }
