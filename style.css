@@ -879,7 +879,10 @@ footer {
     .links-col-right {
     grid-column: 1/4;
 }
-
+    
+    .links-col-right .logo {
+    margin: 40px 0 0 0;
+}
 
     .heading span {
         font-size: 28px;
